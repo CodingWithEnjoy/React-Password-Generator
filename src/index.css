@@ -1,0 +1,22 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap");
+
+body {
+  @apply flex flex-col items-center justify-center bg-slate-200 transition-all dark:bg-slate-900;
+  font-family: "Inter", sans-serif;
+  min-height: 90vh;
+}
+
+* {
+  @apply transition-colors;
+}
+
+*:focus {
+  -webkit-tap-highlight-color: transparent;
+  outline: none;
+  -ms-touch-action: manipulation;
+  touch-action: manipulation;
+}
