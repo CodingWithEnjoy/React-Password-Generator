@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/React-Password-Generator/static/css/main.84ef4a0e.css",
+    "main.js": "/React-Password-Generator/static/js/main.52f9dac4.js",
+    "index.html": "/React-Password-Generator/index.html",
+    "main.84ef4a0e.css.map": "/React-Password-Generator/static/css/main.84ef4a0e.css.map",
+    "main.52f9dac4.js.map": "/React-Password-Generator/static/js/main.52f9dac4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.84ef4a0e.css",
+    "static/js/main.52f9dac4.js"
+  ]
+}
